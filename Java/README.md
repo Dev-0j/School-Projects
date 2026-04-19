@@ -14,5 +14,10 @@ A Java-based slideshow application that displays images in sequence.
 - File handling
 - Basic application structure
 
-## Notes
-Each project has its own folder with a detailed README explaining how to run it.
+## How to Run
+Option 1 (JAR):
+java -jar Slideshow.jar
+
+Option 2 (Source):
+1. Open the project in an IDE (IntelliJ or Eclipse)
+2. Run the main class
