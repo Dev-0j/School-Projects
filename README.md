@@ -1,4 +1,4 @@
-# School Projects
+# CS Projects
 
 Collection of programming projects and assignments from my coursework.
 
