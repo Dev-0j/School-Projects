@@ -1,19 +1,19 @@
-# Text Based Game
+# Python Projects
 
-## Description
-This is a simple text-based adventure game built in Python.
+This folder contains Python projects completed as part of my coursework and personal learning.
 
-## Features
-- Player movement between rooms
-- Item collection
-- Basic game logic
+## Projects
 
-## How to Run
-1. Install Python
-2. Run:
-   python TextBasedGame.py
+### TextBasedGame
+A simple text-based adventure game built in Python that includes room navigation and item collection.
 
-## What I Learned
-- Working with loops and conditionals
-- Structuring a simple game
-- Handling user input
+(More projects will be added here)
+
+## Skills Used
+- Python fundamentals
+- Loops and conditionals
+- User input handling
+- Basic program structure
+
+## Notes
+Each project has its own folder or file with details on how to run it.
