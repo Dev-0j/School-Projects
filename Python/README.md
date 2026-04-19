@@ -18,4 +18,4 @@ A simple text-based adventure game built in Python that includes room navigation
 ## How to Run
 1. Install Python (3.x)
 2. Open a terminal in this folder
-3. Run: _.py
+3. Run: python TextBasedGame.py
