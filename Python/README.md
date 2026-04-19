@@ -15,5 +15,7 @@ A simple text-based adventure game built in Python that includes room navigation
 - User input handling
 - Basic program structure
 
-## Notes
-Each project has its own folder or file with details on how to run it.
+## How to Run
+1. Install Python (3.x)
+2. Open a terminal in this folder
+3. Run: _.py
