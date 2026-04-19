@@ -1,4 +1,0 @@
-﻿  Project3_Grocery.cpp
-E:\Documents\School\CS210\Proj3\Project3_Grocery\Project3_Grocery.cpp(55,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-E:\Documents\School\CS210\Proj3\Project3_Grocery\Project3_Grocery.cpp(64,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Project3_Grocery.vcxproj -> E:\Documents\School\CS210\Proj3\Project3_Grocery\x64\Debug\Project3_Grocery.exe
