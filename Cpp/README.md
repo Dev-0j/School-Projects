@@ -4,7 +4,7 @@ This folder contains C++ projects completed as part of my coursework and persona
 
 ## Projects
 
-### GroceryFrequencyCounter
+### Grocery Tracker
 A C++ program that processes grocery item data and calculates item frequency.
 
 (More projects will be added here)
