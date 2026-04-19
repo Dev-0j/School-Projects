@@ -4,7 +4,7 @@ This folder contains Java projects completed as part of my coursework and person
 
 ## Projects
 
-### SlideShow
+### Slide Show
 A Java-based slideshow application that displays images in sequence.
 
 (More projects will be added here)
