@@ -1,21 +1,14 @@
 # C++ Projects
 
-This folder contains C++ projects completed as part of my coursework and personal learning.
+C++ projects completed as part of my coursework at SNHU.
 
 ## Projects
 
+### Compound Interest Calculator
+A console application that calculates compound interest over time, displaying year-by-year growth with and without monthly deposits. Built using OOP with separate header and implementation files.
+
 ### Grocery Tracker
-A C++ program that processes grocery item data and calculates item frequency.
-
-(More projects will be added here)
-
-## Skills Used
-- C++ fundamentals
-- File input/output
-- Data processing
-- Basic program structure
+A program that processes grocery item data from a file and calculates how frequently each item was purchased. Demonstrates file I/O and data processing.
 
 ## How to Run
-1. Open the project (.sln) file in Visual Studio
-2. Build the project
-3. Run the program
+Compile with any C++ compiler (`g++ main.cpp [other files].cpp -o program`) or open in Visual Studio and build the project.
