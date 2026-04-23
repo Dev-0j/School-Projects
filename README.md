@@ -8,6 +8,7 @@ Collection of programming projects and assignments from my coursework.
 - Python
 
 ## Project Areas
-- C++: GroceryFrequencyCounter
+- C++: Grocery Tracker
+- Investment Calculator
 - Java: SlideShow
 - Python: TextBasedGame
